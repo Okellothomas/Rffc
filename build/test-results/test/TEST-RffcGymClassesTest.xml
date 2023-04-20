@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RffcGymClassesTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-04-20T12:10:42" hostname="thoma-HP-EliteBook-840-G3" time="0.004">
+  <properties/>
+  <testcase name="getClass_name_true" classname="RffcGymClassesTest" time="0.002"/>
+  <testcase name="getId_true" classname="RffcGymClassesTest" time="0.0"/>
+  <testcase name="getTutor_true" classname="RffcGymClassesTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
